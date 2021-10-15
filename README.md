@@ -12,3 +12,10 @@ If you like or are using this project to learn or start your solution, please gi
 ## Roadmap
 
 ![Roadmap](./python-developer-roadmap.png)
+
+
+## TODO:
+* Add Microservices
+* Good to Know Libraries
+* Add extra subtree for data process and data manipulation 
+* Add for ML & DL subtree
