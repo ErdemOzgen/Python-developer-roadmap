@@ -1,6 +1,6 @@
 # Python Developer Roadmap
 
-> Roadmap to becoming a [Python](https://www.python.org/) developer in 2021-2022:
+> Roadmap to becoming a [Python](https://www.python.org/) developer in 2022-2023:
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Python developer. I made this chart as a tip for everyone who asks me, "*What should I learn next as a Python developer?*"
 
 ## Disclaimer
@@ -22,7 +22,7 @@ If you like or are using this project to learn or start your solution, please gi
 * Good to Know Libraries
 * Add API Clients
 * Add extra subtree for data process and data manipulation 
-* Add for ML & DL subtree
+
 
 
 ## Resources
@@ -111,6 +111,15 @@ If you like or are using this project to learn or start your solution, please gi
 
 
 11. Good to Know
+
+   1. Machine Learning
+      1. [NLTK](https://www.nltk.org/)
+      2. [TensorFlow](https://www.tensorflow.org/)
+      3. [Keras](https://keras.io/)
+      4. [PyTorch](https://pytorch.org/)
+      5. [Scikit-Learn](https://scikit-learn.org/)
+      6. [Pandas](https://pandas.pydata.org/)
+      7. [Numpy](https://numpy.org/)
 
 
 
