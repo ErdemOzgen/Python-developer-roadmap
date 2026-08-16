@@ -148,6 +148,7 @@ If you like or are using this project to learn or start your solution, please gi
     2. E2E Testing
        - [Selenium](https://github.com/tebeka/selenium)
        - [Endly](https://github.com/viant/endly)
+       - [Agent QA](https://github.com/vostride/agent-qa) — Natural-language end-to-end testing for web and mobile applications with persistent test memory
 
 13. Task Scheduling
 
